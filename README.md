@@ -16,10 +16,10 @@ here is based off of the Matlab and C++ implementations found in
 are currently included:
 
 1. **Passive Aggressive Algorithms**
-* [Online Passive-Aggressive Algorithms](http://www.jmlr.org/papers/v7/crammer06a.html)
+    * [Online Passive-Aggressive Algorithms](http://www.jmlr.org/papers/v7/crammer06a.html)
 2. **Random Budgeted Perceptron**
-* [Tracking the best hyperplane with a simple budget Perceptron (https://link.springer.com/article/10.1007/s10994-007-5003-0)
+    * [Tracking the best hyperplane with a simple budget Perceptron](https://link.springer.com/article/10.1007/s10994-007-5003-0)
 3. **Fourier Online Gradient Descent**
-* [Large Scale Online Kernel Learning](http://jmlr.org/papers/v17/14-148.html)
+    * [Large Scale Online Kernel Learning](http://jmlr.org/papers/v17/14-148.html)
 4. **Dual Space Gradient Descent**
-* [Dual Space Gradient Descent for Online Learning](http://papers.nips.cc/paper/6560-dual-space-gradient-descent-for-online-learning)
+    * [Dual Space Gradient Descent for Online Learning](http://papers.nips.cc/paper/6560-dual-space-gradient-descent-for-online-learning)
